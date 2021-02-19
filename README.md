@@ -29,7 +29,7 @@ You should download the wheel file matching you Python version, i.e. download th
 
 The proposed generator has been placed in folder "Deeper Test Generators" and can be exeuted using a script like the following one:
 
-python competition.py --time-budget INTEGER --executor beamng --beamng-home PATH --map-size INTEGER --oob-tolerance FLOAT --module-name Deeper_test_generators.deeper_test_generator --class-name DeeperTestGenerator
+python competition.py --time-budget INTEGER --executor beamng --beamng-home PATH --map-size INTEGER --oob-tolerance FLOAT --module-name Deeper_test_generator.deeper_test_generator --class-name DeeperTestGenerator
 
 (P.S., It uses a set of initial seed population in folder "data -> member_seeds -> Seed_Population". Please do not remove the folder data and note that Deeper does not work with "mock" executor.)
 
