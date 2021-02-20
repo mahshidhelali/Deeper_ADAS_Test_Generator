@@ -1,6 +1,6 @@
 # Deeper_ADAS_Test_Generator
 
-**Deeper** is a simulation-based test generator using an evolutionary process (i.e., mainly NSGAII) for testing a DNN-based function, i.e., lane keeping system, in automotive domain. It has been mainly developed based on DeepJanus Test input generator (https://github.com/testingautomated-usi/DeepJanus/tree/master/DeepJanus-BNG) [1], which is to explore the Frontier of Behaviours for Deep Learning System Testing and is shared under the MIT license.
+**Deeper** is a simulation-based test generator that uses an evolutionary process (i.e., mainly NSGAII) for generating test cases to test a DNN-based lane keeping system in automotive domain. It has been mainly developed based on DeepJanus Test input generator (https://github.com/testingautomated-usi/DeepJanus/tree/master/DeepJanus-BNG) [1], which is to explore the Frontier of Behaviours for Deep Learning System Testing and is shared under the MIT license.
 The current test generator has been customized for <a href="https://sbst21.github.io/tools/">Cyber-Physical Systems Testing Competition</a> in <a href="https://sbst21.github.io/">SBST 2021</a>. It uses the provided code pipelines by the <a href="https://github.com/se2p/tool-competition-av">competition repository</a>.  
 
 **Installation:**
