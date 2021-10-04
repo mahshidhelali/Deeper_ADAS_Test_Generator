@@ -35,5 +35,6 @@ python competition.py --time-budget INTEGER --executor beamng --beamng-home PATH
 
 **References:**
 
-[1]. Moghadam, M. H., Borg, M., & Mousavirad, S. J. (2021, May). Deeper at the sbst 2021 tool competition: ADAS testing using multi-objective search. In 2021 IEEE/ACM 14th International Workshop on Search-Based Software Testing (SBST) (pp. 40-41). IEEE.
+[1]. Moghadam, M. H., Borg, M., & Mousavirad, S. J. (2021, May). Deeper at the SBST 2021 tool competition: ADAS testing using multi-objective search. In 2021 IEEE/ACM 14th International Workshop on Search-Based Software Testing (SBST) (pp. 40-41). IEEE.
+
 [2]. Riccio, V., & Tonella, P. (2020, November). Model-based exploration of the frontier of behaviours for deep learning system testing. In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (pp. 876-888).
